@@ -4,7 +4,7 @@ This project predicts future retail sales using multiple forecasting models and 
 
 ## 🚀 Live Demo
 
-https://7iyjwss7pgzbdupxdhtypf.streamlit.app/
+https://6bkppjfa9owmcrnehfmwhb.streamlit.app
 
 ## Features
 
